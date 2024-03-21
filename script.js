@@ -18,4 +18,4 @@ function myFunc() {
 
 myFunc();
 
-console.log(localVar);
+console.log(globalVar);
